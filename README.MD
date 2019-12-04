@@ -75,7 +75,7 @@ Entonar Coro
 Estado:  false
 ```
 
-* BORARR: Utilizar -d y la descripción de la tarea que se desea eliminar.
+* BORRAR: Utilizar -d y la descripción de la tarea que se desea eliminar.
 
 ```
 node app borrar -d "Entonar"
